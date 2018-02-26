@@ -9,4 +9,7 @@ while(i<=10):
     # Your code here
 	#here is i edited from the desktop
 	
-	#this is from github
+	function ()
+	{
+	#write function here for addition
+	}
