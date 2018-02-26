@@ -7,4 +7,4 @@ while(i<=10):
   i+=1
   print "\n"
     # Your code here
-
+	#here is i edited from the desktop
